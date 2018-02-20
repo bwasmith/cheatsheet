@@ -1,0 +1,8 @@
+# Vim
+
+## General Navigation
+- w/b -- Word and Back
+- gt -- next Tab
+
+## Misc
+- :PluginInstall

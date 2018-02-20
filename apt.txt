@@ -1,0 +1,4 @@
+# APT
+
+- ```apt-cache search ____``` -- Looks up a repository in various known locations
+

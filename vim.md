@@ -6,3 +6,4 @@
 
 ## Misc
 - ```:PluginInstall```
+- Ctrl-k then *PI* shows digraphs
